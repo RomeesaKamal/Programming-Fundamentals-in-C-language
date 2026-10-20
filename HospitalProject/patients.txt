@@ -1,0 +1,33 @@
+=====================================
+Patient Name : zainab
+Age          : 19
+Gender       : Female
+Disease      : cancer
+Doctor       : dr.Romeesa kamal
+Phone        : 123354687
+Address      : jkdkfgldf
+Room No      : 114
+=====================================
+
+=====================================
+Patient Name : asfdrg
+Age          : 12
+Gender       : Female
+Disease      : drgftu
+Doctor       : qwrfty5
+Phone        : 134657
+Address      : adftjh
+Room No      : 123
+=====================================
+
+=====================================
+Patient Name : ert
+Age          : 12
+Gender       : Male
+Disease      : ssde
+Doctor       : asder
+Phone        : 1245
+Address      : asdfg
+Room No      : 1325
+=====================================
+
